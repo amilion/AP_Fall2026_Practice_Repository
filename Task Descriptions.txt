@@ -1,0 +1,4 @@
+The task is simple: 
+1. create a file named [surname][student_name].txt
+2. write Hello World inside it
+3. upload the file to this repository.
